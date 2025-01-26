@@ -1,6 +1,6 @@
 # SQL Analysis Project: E-commerce Performance Insights
 ### **I. Project Assumption**
-Our company runs business in E-Commerce field. Stakeholders have 8 questions about Ecommerce data. As a data analst, I need to explore, analyze the data and give answers by using:
+Our company runs business in E-Commerce field. Stakeholders have 8 questions to get more information of website performance, user behavior, and product sales metrics. As a data analst, I need to explore, analyze the data and give answers by using:
 - Data source: bigquery-public-data.google_analytics_sample
 - Data set: bigquery-public-data.google_analytics_sample.ga_sessions_20170801 
 - Tool: Google Bigquery
