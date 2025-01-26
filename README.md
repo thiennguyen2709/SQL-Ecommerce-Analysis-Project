@@ -26,7 +26,7 @@ Our company runs business in E-Commerce field. Stakeholders have 8 questions to 
 6. What is average amount of money spent per session. Only include purchaser data in July 2017?
 ![image](https://github.com/user-attachments/assets/c8a12424-346e-44c6-862d-ac768d2e537c)
 
-7. Which products are purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017?
+7. Which products are purchased by customers purchasing product "YouTube Men's Vintage Henley" in July 2017?
 ![image](https://github.com/user-attachments/assets/9dda8ff3-d183-4913-815b-f373908ed9e5)
 
 8. What is cohort map from product view to addtocart to purchase in Jan, Feb and March 2017?
