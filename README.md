@@ -4,7 +4,7 @@ Our company runs business in E-Commerce field. Stakeholders have 8 questions to 
 - Data source: bigquery-public-data.google_analytics_sample
 - Data set: bigquery-public-data.google_analytics_sample.ga_sessions_20170801 
 - Tool: Google Bigquery
-### **II. Questions and Data Exploration**
+### **II. Project Questions and Data Exploration**
 1. What is total visits, pageviews, transactions for Jan, Feb and March 2017?
 ![image](https://github.com/user-attachments/assets/08296a42-6145-4b28-a644-c8909d3161f1)
 
@@ -33,7 +33,7 @@ Our company runs business in E-Commerce field. Stakeholders have 8 questions to 
 ![image](https://github.com/user-attachments/assets/5b346a84-f773-448d-929c-040f2bdc4c3b)
 ![image](https://github.com/user-attachments/assets/bb9a3a6a-750d-40d9-b4b2-c916a270bbe7)
 
-### **III. Technical skills**
+### **III. Used technical skills**
 - Common Table Expressions (CTEs)
 - Aggregations (SUM, COUNT, ROUND)
 - Window Functions
