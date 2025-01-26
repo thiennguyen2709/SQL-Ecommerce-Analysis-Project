@@ -27,7 +27,6 @@ Our company runs business in E-Commerce field. Stakeholders have 8 questions to 
 ![image](https://github.com/user-attachments/assets/c8a12424-346e-44c6-862d-ac768d2e537c)
 
 7. What are other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017?
-
 ![image](https://github.com/user-attachments/assets/9dda8ff3-d183-4913-815b-f373908ed9e5)
 
 8. What is cohort map from product view to addtocart to purchase in Jan, Feb and March 2017?
