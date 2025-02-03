@@ -1,8 +1,8 @@
 # SQL Analysis Project: E-commerce Performance Insights
 ### **I. Project Assumption**
 Our company runs business in E-Commerce field. Stakeholders have 8 questions to get more information of website performance, user behavior, and product sales metrics. As a data analst, I need to explore, analyze the data and give answers by using:
-- Data source: bigquery-public-data.google_analytics_sample
-- Data set: bigquery-public-data.google_analytics_sample.ga_sessions_20170801 
+- Data source: GoogleBigQuery\bigquery-public-data.google_analytics_sample
+- Data set: GoogleBigQuery\bigquery-public-data.google_analytics_sample.ga_sessions_20170801 
 - Tool: Google Bigquery
 ### **II. Project Questions and Data Exploration**
 1. What is total visits, pageviews, transactions for Jan, Feb and March 2017?
