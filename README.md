@@ -31,16 +31,6 @@ Our company runs business in E-Commerce field. Stakeholders have 8 questions to 
 7. Which products are purchased by customers purchasing product "YouTube Men's Vintage Henley" in July 2017?
 8. What is cohort map from product view to addtocart to purchase in Jan, Feb and March 2017?
 
-### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
-
- _Example:_
-
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
-
 ---
 
 ## 📂 Dataset Description & Data Structure  
@@ -51,60 +41,13 @@ format.
 
 ### 📊 Data Structure
 
-
+![image](https://github.com/user-attachments/assets/87d64f57-2f81-4a58-946b-c6d3ede25fd9)
 
 ---
-
 
 ## ⚒️ Main Process
 
-1️⃣ Data Cleaning & Preprocessing  
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
-
-- In each step, show your Code
-
-- Include query/ code execution screenshots or result samples
-
-- Explain its purpose and its findings
-
-
-4️⃣ Power BI Visualization  (applicable for PBI Projects)
 
 ---
 
-## 📊 Key Insights & Visualizations  
 
-### 🔍 Dashboard Preview  
-
-#### 1️⃣ Dashboard 1 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
-
-📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
-
-#### 2️⃣ Dashboard 2 Preview  
-👉🏻 Insert Power BI dashboard screenshots here
-
-📌 Analysis 2:   
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
-
-#### 3️⃣ Dashboard 3 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
-
-📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
-
----
-
-## 🔎 Final Conclusion & Recommendations  
-
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
-
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
