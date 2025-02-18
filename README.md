@@ -1,14 +1,7 @@
-# UNIGAP - PORTFOLIO BUILDING MODULE
-
-🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
-
----
-![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
-
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+# 📊 SQL Analysis Project: E-commerce Performance Insights  
+Author: Nguyen Duc Thien  
+Date: 2024-11-14  
+Tools Used: SQL  
 
 ---
 
@@ -26,29 +19,17 @@ Tools Used: SQL/ Power BI/ Python
 ### Objective:
 ### 📖 What is this project about? 
  
-Provide a brief introduction to the project. Define the problem statement and why it is important.  
-
- _Example:_
-> This project analyzes sales trends and inventory control using SQL and Power BI. The objective is to help businesses optimize stock levels, improve demand forecasting, and reduce costs.  
-
-### 👤 Who is this project for?  
-
-Mention who might benefit from this project 
-
- _Example:_
-
-✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+Our company runs business in E-Commerce field. Stakeholders have 8 questions to get more information of website performance, user behavior, and product sales metrics
 
 ###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
-
- _Example:_
-
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+1. What is total visits, pageviews, transactions for Jan, Feb and March 2017?
+2. What is bounce rate per traffic source in July 2017?
+3. What is revenue by traffic source by week, by month in June 2017?
+4. What is average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017?
+5. What is average number of transactions per user that made a purchase in July 2017?
+6. What is average amount of money spent per session. Only include purchaser data in July 2017?
+7. Which products are purchased by customers purchasing product "YouTube Men's Vintage Henley" in July 2017?
+8. What is cohort map from product view to addtocart to purchase in Jan, Feb and March 2017?
 
 ### 🎯Project Outcome:  
 Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
@@ -65,67 +46,15 @@ format.
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: Google BigQuery\bigquery-public-data.google_analytics_sample.ga_sessions_20170801  
+- Size: 305 rows & 306 columns
 
-### 📊 Data Structure & Relationships  
-
-#### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
-
-#### 2️⃣ Table Schema & Data Snapshot  
-
-Table 1: Products Table  
-
-👉🏻 Insert a screenshot of table schema 
-
- _Example:_
-
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
+### 📊 Data Structure
 
 
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema 
-
-
- _Example:_
-
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
-
-
-
-#### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
-
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
 
 ---
 
-## 🧠 Design Thinking Process  
-
-Explain the step-by-step approach taken to solve the problem.  
-
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
-
-1️⃣ Empathize  
-2️⃣ Define point of view  
-3️⃣ Ideate  
-4️⃣ Prototype and review  
-
----
 
 ## ⚒️ Main Process
 
